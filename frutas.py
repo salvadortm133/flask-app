@@ -5,9 +5,9 @@ import random
 app = Flask(__name__)
 
 images = {
-    "Manzana": "URL_DE_MANZANA",
-    "Kiwi": "URL_DE_KIWI",
-    "Mango": "URL_DE_MANGO",
+    "Manzana": "https://www.smartnfinal.com.mx/tienda/frutas-y-verduras/manzana-roja",
+    "Kiwi": "https://adomicilio.merco.mx/p/kiwi-pieza-10244906",
+    "Mango": "https://biotrendies.com/frutas/fresa",
     # Agrega más frutas según sea necesario
 }
 
